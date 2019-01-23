@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Image\7_FILES.jpg" />
+    <Content Include="Image\7_FILES_1.jpg" />
     <Content Include="Image\PhotoCap_1_MemberRegister.jpg" />
     <Content Include="Image\PhotoCap_2_Login.jpg" />
     <Content Include="Image\PhotoCap_3_HomeIndex.jpg" />
