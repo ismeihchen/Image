@@ -74,6 +74,7 @@
     <Content Include="Image\PhotoCap_4_Car_1.jpg" />
     <Content Include="Image\PhotoCap_4_Car_2_Input.jpg" />
     <Content Include="Image\PhotoCap_5_OrderList.jpg" />
+    <Content Include="Image\PhotoCap_5_OrderList_1.jpg" />
     <Content Include="Image\PhotoCap_6_OrderDetail.jpg" />
     <Content Include="test.html" />
     <Content Include="Web.config" />
