@@ -89,6 +89,16 @@
     <Content Include="Image\PhotoCap_5_OrderList.jpg" />
     <Content Include="Image\PhotoCap_5_OrderList_1.jpg" />
     <Content Include="Image\PhotoCap_6_OrderDetail.jpg" />
+    <Content Include="Image\StoredProcedure\1_Employee_List.jpg" />
+    <Content Include="Image\StoredProcedure\2_Employee_Create.jpg" />
+    <Content Include="Image\StoredProcedure\2_Employee_Edit.jpg" />
+    <Content Include="Image\StoredProcedure\501_Database_1.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_1_usp_GetAllDepartment.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_2_usp_GetEmployeeByDepId.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_3_usp_GetEmployeeByEmpID.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_4_usp_PR_Employee_Insert.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_5_usp_PR_Employee_UpdateByPK.jpg" />
+    <Content Include="Image\StoredProcedure\601_sp_6_usp_PR_Employee_DeleteByPK.jpg" />
     <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
