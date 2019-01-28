@@ -91,6 +91,10 @@
     <Content Include="Images\TSQL\4_Specialty_2_usp_GetSpecialtyReport.jpg" />
     <Content Include="Images\TSQL\4_Specialty_3_usp_GetSpecialtyReportV2.jpg" />
     <Content Include="Images\TSQL\4_Specialty_4_usp_GetSpecialtyReportV3.jpg" />
+    <Content Include="Images\WebAPI\1_Employee_Add.jpg" />
+    <Content Include="Images\WebAPI\1_Employee_Delete.jpg" />
+    <Content Include="Images\WebAPI\1_Employee_List.jpg" />
+    <Content Include="Images\WebAPI\1_Employee_Update.jpg" />
     <Content Include="Image\2_Login_2.jpg" />
     <Content Include="Image\5_OrderList_2.jpg" />
     <Content Include="Image\6_OrderDetail_2.jpg" />
