@@ -77,6 +77,12 @@
     <Content Include="Images\StoredProcedure\601_sp_4_usp_PR_Employee_Insert.jpg" />
     <Content Include="Images\StoredProcedure\601_sp_5_usp_PR_Employee_UpdateByPK.jpg" />
     <Content Include="Images\StoredProcedure\601_sp_6_usp_PR_Employee_DeleteByPK.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_1_usp_GetAllDepartment.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_2_usp_GetEmployeeByDepId.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_3_usp_GetEmployeeByEmpID.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_4_usp_PR_Employee_Insert.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_5_usp_PR_Employee_UpdateByPK.jpg" />
+    <Content Include="Images\StoredProcedure\ADONET\601_sp_6_usp_PR_Employee_DeleteByPK.jpg" />
     <Content Include="Images\TSQL\1_Order_1.jpg" />
     <Content Include="Images\TSQL\1_Order_2_usp_GetOrderReport.jpg" />
     <Content Include="Images\TSQL\1_Order_3_usp_GetOrderReportV2.jpg" />
